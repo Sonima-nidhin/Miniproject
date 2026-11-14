@@ -7,3 +7,21 @@ change sales column as number,profit-currency, discount - percentage
 add new column total cost =[@Sales]-[@Profit]
 unit price =[@Sales]/[@Quantity]
 profit status =IF([@Profit]>0,"profit","loss")
+DATA VISUALISATION
+DASH BOARD SALES DATA ANALYSIS
+Column chart - sum of sales by sub category
+line chart - sum of sales by year
+map visual - sum of sales by state
+donut chart - sum of sales by shipment mode
+funnel chart - sum of sales by segment
+scatter chart - sum of sales and profit by customer name
+button slicers - sum of sales by region and sum of sales by sub category
+
+DASH BOARD SALES OVERVIEW
+KPI CARDS - Sum of sales by region and sum of total cost by sub category
+SLICERS - SALES, REGION  and CATEGORY
+LIST SLICER - sum of sales by sub category and city
+DASH BOARD - PROFIT ANALYSIS
+Donut chart - profit by region
+pie chart - profit by segment
+clusterd bar chart - profit by sate
