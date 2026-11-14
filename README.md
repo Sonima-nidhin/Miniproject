@@ -28,10 +28,18 @@ button slicers - sum of sales by region and sum of sales by sub category
 
 DASH BOARD SALES OVERVIEW
 
+
 KPI CARDS - Sum of sales by region and sum of total cost by sub category
+
 SLICERS - SALES, REGION  and CATEGORY
+
 LIST SLICER - sum of sales by sub category and city
+
 DASH BOARD - PROFIT ANALYSIS
+
+
 Donut chart - profit by region
+
 pie chart - profit by segment
+
 clusterd bar chart - profit by sate
