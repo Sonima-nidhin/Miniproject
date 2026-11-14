@@ -42,4 +42,7 @@ Donut chart - profit by region
 
 pie chart - profit by segment
 
-clusterd bar chart - profit by sate
+clusterd bar chart - profit by state
+stacked area chart - profit by year
+guage - sum of profit
+ribbon chart - profit by quantity
